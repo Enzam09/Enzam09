@@ -1,4 +1,8 @@
 ## Hi there 👋
+Meu nome é Enzo Ryan
+Estudante de ADS no Pioli
+01🎖
+
 
 <!--
 **Enzam09/Enzam09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
