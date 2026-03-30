@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://media.tenor.com/65bUl5-gbL0AAAAi/baby-ai-meme.gif)
-
+<p>Linguagens e Tecnologias</p>
 <img 
     align="left" 
     alt="HTML"
