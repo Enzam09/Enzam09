@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![]([https://media.tenor.com/65bUl5-gbL0AAAAi/baby-ai-meme.gif](https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif))
+![]([https://media.tenor.com/65bUl5-gbL0AAAAi/baby-ai-meme.gif](https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif));
 <p>Linguagens e Tecnologias</p>
 <img 
     align="left" 
