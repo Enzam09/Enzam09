@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
- Meu nome é Enzo Ryan e tenho 15 anos de idade. Atualmente estou cursando o segundo ano de Análise e Desenvolvimento de Sistemas na instituiução do SENAI
+ Meu nome é Enzo Ryan e tenho 15 anos de idade. 
+ Atualmente estou cursando o segundo ano de Análise e Desenvolvimento de Sistemas na instituiução do SENAI
 </p>
 
 <p align="center">
