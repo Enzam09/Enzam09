@@ -1,58 +1,19 @@
-## Hi there 👋
-Meu nome é Enzo Ryan
-Estudante de ADS no Pioli
-01🎖
+<h1 align="center">Hi there 👋</h1>
 
+<p align="center">
+ Meu nome é Enzo Ryan e tenho 15 anos de idade. Atualmente estou cursando o segundo ano de Análise e Desenvolvimento de Sistemas na instituiução do SENAI
+</p>
 
-<!--
-**Enzam09/Enzam09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif" width="400" alt="funny gif" />
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![]([https://media.tenor.com/65bUl5-gbL0AAAAi/baby-ai-meme.gif](https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif))
+<p align="left">
+  <img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-<p>Linguagens e Tecnologias</p>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
+<br clear="left"/>
